@@ -1,4 +1,7 @@
 # breadboard_blink_LED
+
+Group members: Chase, Ben, & Bentley 
+
 In this repository there is file for the circuit diagram and the particle project to blink the LED.
 
 Instructions to build the circuit:
